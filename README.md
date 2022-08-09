@@ -1,7 +1,6 @@
 ### Hi there 👋, Judy Mugi 
 #### Data Analyst, "Life is either a daring adventure or nothing at all"
-![Data Analyst, "Life is either a daring adventure or nothing at all"](https://media-exp1.licdn.com/dms/image/C5616AQH7_A4wZVz4Tg/profile-displaybackgroundimage-shrink_350_1400/0/1660070800700?e=1665619200&v=beta&t=2a8OHt9XX3pCHnNwa1cwLqkMnEYZTdqLZkBI0AioQsw)
-
+![Banner](https://media-exp1.licdn.com/dms/image/C5616AQGg1DZVI-3awQ/profile-displaybackgroundimage-shrink_350_1400/0/1660071692611?e=1665619200&v=beta&t=JIkQNFqgyal0pOxhjmJSKa1TcJcWi920CtIsbThUGdc)
 
 Skills: MYSQL, PYTHON, MICROSOFT EXCEL, POWER BI
 
