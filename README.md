@@ -1,8 +1,7 @@
 ### HELLO THERE: My name is Judy Mugi. 👋
 "Life is either a daring adventure or nothing at all"
 - 🔭 I’m currently working on python for data analysis .
-- 🌱 I’m currently learning libraries .
-- 🤔 I’m looking for help with SQL.
+- 🌱 I’m currently learning libraries 
 - 📫 How to reach me: 
 [Linkedin - Judy Mugi](https://www.linkedin.com/in/judy-mugi/),
 [Instagram - Judy Mugi](https://www.instagram.com/missmugi/)
