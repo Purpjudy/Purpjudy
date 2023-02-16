@@ -4,7 +4,7 @@
 
 Skills: MYSQL, PYTHON, MICROSOFT EXCEL, POWER BI
 
-- 🌱 I’m currently learning Data Analytics 
+- 🌱 I’m currently learning Machine Learning
 - 😄 Pronouns: She / Her 
 - ⚡ Fun fact: I remember first interactions with people by what they wore the first time we met. 
 
