@@ -2,7 +2,7 @@
 #### Data Analyst, "Life is either a daring adventure or nothing at all"
 ![Banner](https://media-exp1.licdn.com/dms/image/C5616AQGg1DZVI-3awQ/profile-displaybackgroundimage-shrink_350_1400/0/1660071692611?e=1665619200&v=beta&t=JIkQNFqgyal0pOxhjmJSKa1TcJcWi920CtIsbThUGdc)
 
-Skills: MYSQL, PYTHON, MICROSOFT EXCEL, POWER BI
+Skills: MYSQL, PYTHON, MICROSOFT EXCEL, TABLEAU
 
 - 🌱 I’m currently learning Machine Learning
 - 😄 Pronouns: She / Her 
